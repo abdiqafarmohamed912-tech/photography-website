@@ -10,6 +10,7 @@ Abdiqafar Mohamed
 ## link to live site on Github Pages
  -https://abduljunior.github.io/photography-project/
  ## performance
+ -fast loading
 ## copyright and license information
 -@2026 Abdiqafar Mohamed. All rights reserved
 NOTE: all images and trademarks related to Porsche teams are the property of their respective owners and are used here for educational/ illustrative purposes
