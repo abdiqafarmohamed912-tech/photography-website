@@ -9,3 +9,4 @@ Abdiqafar Mohamed
 - simply click the Github pages link to view the live project 
 ## link to live site on Github Pages
  -https://abduljunior.github.io/photography-project/
+## copyright and license information
